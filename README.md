@@ -46,7 +46,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- The game assets used in this project (road, cars, music) are taken from:
+The game assets used in this project (road, cars, music) are taken from:
 - [Road image](https://opengameart.org/content/road-for-2d-games)
 - [Red car image](https://www.iconspng.com/image/40843/pixel-car-red-front)
 - [Blue car image](https://pixelartmaker.com/art/906c806b7bba0cb)
