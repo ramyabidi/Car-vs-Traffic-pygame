@@ -1,6 +1,6 @@
 # Car vs Traffic
 
-![Car vs Traffic](https://i.ibb.co/mBMJJMR/Screenshot-from-2023-07-29-20-27-23.png))
+![Car vs Traffic](https://i.ibb.co/mBMJJMR/Screenshot-from-2023-07-29-20-27-23.png)
 
 **Car vs Traffic** is a simple arcade-style game developed in Python using the Pygame library. The objective of the game is to control your car and avoid collisions with incoming enemy cars on a two-lane road. The longer you survive without crashing, the higher your score will be!
 
