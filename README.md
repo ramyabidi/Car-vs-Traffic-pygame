@@ -1,4 +1,4 @@
-# Car vs Traffic
+# Car vs Traffic Game
 
 ![Car vs Traffic](https://i.ibb.co/mBMJJMR/Screenshot-from-2023-07-29-20-27-23.png)
 
